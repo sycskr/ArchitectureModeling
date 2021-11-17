@@ -12,7 +12,11 @@
 
 #### 运行get_vanishingpoint
 
+#### 运行get_point
+
 #### 运行calculate_t
+
+![image-20211112155844324](C:\Users\syc\AppData\Roaming\Typora\typora-user-images\image-20211112155844324.png)
 
 #### 运行calculate_P
 
